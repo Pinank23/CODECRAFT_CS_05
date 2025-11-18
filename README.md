@@ -5,7 +5,7 @@
 🌀 DriftSocket — Your Network Detective  
 <img src="https://dummyimage.com/900x250/1c1c1c/ffffff&text=DriftSocket:+Network+Traffic+Inspector" alt="DriftSocket Banner"/>
 
-# DriftSocket — Your Network Detective
+## *DriftSocket — Your Network Detective*
 DriftSocket is a Python-powered packet inspection tool built for labs, research networks, and secure development environments. It delivers deep visibility without the weight of enterprise suites.
 
 A demonstration video (Demo.mp4) is included to help users get oriented quickly.
@@ -81,5 +81,4 @@ The included `Demo.mp4` demonstrates:
 ### 1. Confirm that Python 3.x is installed.  
 ### 2. Permission-related errors typically require `sudo`.  
 ### 3. Ensure you’re operating in a permitted environment.
-```
 
