@@ -1,76 +1,84 @@
+```markdown
 # CODECRAFT_CS_05
 
 <div align="center">
-🌀 DriftSocket — Your Network Detective
+🌀 DriftSocket — Your Network Detective  
 <img src="https://dummyimage.com/900x250/1c1c1c/ffffff&text=DriftSocket:+Network+Traffic+Inspector" alt="DriftSocket Banner"/>
 
 DriftSocket is a Python-powered packet inspection tool built for labs, research networks, and secure development environments. It delivers deep visibility without the weight of enterprise suites.
 
 A demonstration video (Demo.mp4) is included to help users get oriented quickly.
-
 </div>
-✨ Features
 
--🔍 Real-time packet capture and inspection
+✨ **Features**
 
--⚙️ Lightweight, minimal setup process
+- 🔍 Real-time packet capture and inspection  
+- ⚙️ Lightweight, minimal setup process  
+- 🐧 CLI-focused design for Linux environments  
+- 🛡️ Built for authorized, controlled network spaces.
 
--🐧 CLI-focused design for Linux environments
+---
 
--🛡️ Built for authorized, controlled network spaces.
+## 🚀 Installation & Setup
 
-🚀 Installation & Setup
+1. **Clone the Repo**:  
+   ```
+   git clone https://github.com/Pinank23/CODECRAFT_CS_05.git
+   ```
+2. **Enter the Project Directory**:  
+   ```
+   cd CODECRAFT_CS_05
+   ```
+3. **Create and Activate a Virtual Environment**:  
+   ```
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+4. **Use Elevated Privileges**  
 
-1. Clone the Repository
-git clone https://github.com/Pinank23/CODECRAFT_CS_05.git
+   Packet capturing usually requires administrative permissions:  
+   ```
+   sudo -i
+   ```
+5. **Launch DriftSocket**:  
+   ```
+   sudo python3 packet_sniffer.py
+   ```
 
-2. Enter the Project Directory
-cd <cloned-folder-name>
-
-3. Create and Activate a Virtual Environment
-python3 -m venv venv
-source venv/bin/activate
-
-4. Use Elevated Privileges
-
-Packet capturing usually requires administrative permissions.
-
-sudo -i
-
-5. Launch DriftSocket
-sudo python3 packet_sniffer.py
-
-
-Once launched, the terminal will begin showing real-time packet activity.
+Once launched, the terminal will begin showing real-time packet activity.  
 🛰️ Every frame on the wire becomes visible.
 
-🎥 Demo Included
+---
 
-The included Demo.mp4 demonstrates:
+## 🎥 Demo Included
 
-1.Project setup
+The included `Demo.mp4` demonstrates:  
 
-2.Running DriftSocket
-
-3.What to expect from the packet logs
+1. Project setup  
+2. Running DriftSocket  
+3. What to expect from the packet logs  
 
 Ideal for quick onboarding or a fast refresher.
 
+---
 
-⚠️ Responsible Use
+## ⚠️ Responsible Use
 
 Packet inspection tools must only be used on networks where you have explicit authorization. Unauthorized sniffing may be illegal or unethical. DriftSocket is intended for:
 
-1.Home labs
+1. Home labs  
+2. Virtualized environments  
+3. Development and testing networks you control
 
-2.Virtualized environments
+---
 
-3.Development and testing networks you control
+## 🛠️ Troubleshooting
 
-🛠️ Troubleshooting
+1. Confirm that Python 3.x is installed.  
+2. Permission-related errors typically require `sudo`.  
+3. Ensure you’re operating in a permitted environment.
+```
 
-1.Confirm that Python 3.x is installed.
-
-2.Permission-related errors typically require sudo.
-
-3.Ensure you’re operating in a permitted environment.
+[8](https://www.youtube.com/watch?v=WGJC5vT5YJo)
+[9](https://www.linkedin.com/posts/johann-ajish-bb3303240_github-zero-jnpacket-sniffer-python-a-activity-7373401442772119552-HCMe)
+[10](https://elearning.unipd.it/math/pluginfile.php/122573/mod_folder/content/0/Readme.pdf?forcedownload=1)
