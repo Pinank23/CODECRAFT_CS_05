@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Stylish Packet Sniffer GUI for Kali Linux (educational use only).
+Sniffer GUI for Kali Linux (educational use only).
 Modern UI with grouped controls, color-coded rows, and clean layout.
 Requires root privileges to capture live traffic.
 """
