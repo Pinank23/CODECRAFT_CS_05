@@ -45,7 +45,7 @@ A demonstration video (Demo.mp4) is included to help users get oriented quickly.
    ```
 5. **Launch DriftSocket**:  
    ```bash
-   sudo python3 packet_sniffer.py
+   sudo python3 driftsocket.py
    ```
 
 #### Once launched, the terminal will begin showing real-time packet activity.  
