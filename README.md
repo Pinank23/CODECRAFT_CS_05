@@ -12,6 +12,12 @@ A demonstration video (Demo.mp4) is included to help users get oriented quickly.
 </div>
 
 ---
+# Demo IM@ge
+
+Here is a preview:
+
+![Alt text](images.png)
+
 
 ## ✨ Features
 
