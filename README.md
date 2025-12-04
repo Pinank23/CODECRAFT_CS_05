@@ -1,8 +1,8 @@
 
-## CODECRAFT_CS_05
+
 
 <div align="center">
-🌀 DriftSocket — Your Network Detective  
+🌀 DriftSocket 
 <img src="https://dummyimage.com/900x250/1c1c1c/ffffff&text=DriftSocket:+Network+Traffic+Inspector" alt="DriftSocket Banner"/>
 
 ## *DriftSocket — Your Network Detective*
@@ -24,7 +24,7 @@ Here is a preview:
 
 - 🔍 Real-time packet capture and inspection  
 - ⚙️ Lightweight, minimal setup process  
-- 🐧 CLI-focused design for Linux environments  
+- 🐧 GUI-focused simple design for Linux environments  
 - 🛡️ Built for authorized, controlled network spaces.
 
 ---
@@ -55,7 +55,7 @@ Here is a preview:
    sudo python3 driftsocket.py
    ```
 
-#### Once launched, the terminal will begin showing real-time packet activity.  
+#### Once launched, the tool will begin showing real-time packet activity.  
 🛰️ Every frame on the wire becomes visible.
 
 ---
@@ -85,7 +85,7 @@ The included `Demo.mp4` demonstrates:
 ## 🛠️ Troubleshooting
 
 
-### 1. Confirm that Python 3.x is installed.  
+### 1. Confirm that Python 3.13 is installed.  
 ### 2. Permission-related errors typically require `sudo`.  
 ### 3. Ensure you’re operating in a permitted environment.
 
