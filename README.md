@@ -16,7 +16,8 @@ A demonstration video (Demo.mp4) is included to help users get oriented quickly.
 
 Here is a preview:
 
-![Alt text](images.png)
+![Demo Image](image.png?raw=true)
+
 
 
 ## ✨ Features
